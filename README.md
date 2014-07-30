@@ -10,6 +10,8 @@ Usage is very simple, run adaltavoce.py and it will create in the same
 directory a new folder (tipically "AD_ALTA_VOCE") where all the files
 will be stored.
 
+You will need FeedParser Library, you can find it here, https://pypi.python.org/pypi/feedparser
+
 * "Ad Alta Voce" home site 
-    http://www.radio3.rai.it/dl/radio3/programmi/PublishingBlock-6f050596-ec16-4a4a-9f0c-be190ad4c491.html
+    http://www.rai.tv/dl/RaiTV/programmi/page/Page-9fe19bce-1c27-4b63-b41e-2d7581d21374.html
     
